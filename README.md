@@ -15,7 +15,6 @@ https://schoolsdata2-tea-texas.opendata.arcgis.com/
 Current Districts 2023 | Current Districts 2023 | Texas Education Agency Public Open Data (arcgis.com)
 https://schoolsdata2-tea-texas.opendata.arcgis.com/datasets/11533aa5e8e24529aa5ac0c455be6ce6/explore?location=31.581959%2C-99.886967%2C7.00
 
-Alteryx Workflow:
-https://mail.google.com/mail/u/0?ui=2&ik=8d1c67cf03&attid=0.1&permmsgid=msg-f:1780230105238113253&th=18b4a5d9412c8be5&view=att&disp=safe&realattid=f_lnxuac3q0
+View the WWC_Hackathon_PreK_TX.zip file for raw data file and data cleansing in Alteryx.
 
 
