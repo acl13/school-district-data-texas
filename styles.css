@@ -76,7 +76,7 @@ footer {
 }
 
 
-#tableau-container, main {
+.tableau-container, main {
     margin: 20px;
 
 }
